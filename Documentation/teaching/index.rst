@@ -2,6 +2,7 @@
 Linux Kernel Teaching
 =====================
 
+Just changing to `Linux <https://linux.org/>`_
 This is a collection of lectures and labs Linux kernel topics. The
 lectures focus on theoretical and Linux kernel exploration.
 
